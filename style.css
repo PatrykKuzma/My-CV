@@ -13,7 +13,7 @@ body {
 }
 
 #contact-sidebar {
-    background-color: #001f3f; /* Dark blue background color */
+    background-color: #001f3f; 
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@ body {
 }
 
 #contact-sidebar h2 {
-    color: #ffffff; /* White text color */
+    color: #ffffff; 
     font-size: 1.5em;
 }
 
@@ -40,17 +40,17 @@ body {
 
 #contact-sidebar li {
     margin-bottom: 5px;
-    color: #ffffff; /* White text color for list items */
+    color: #ffffff; 
 }
 
 #contact-sidebar a {
-    color: #ffffff; /* White text color for links */
-    font-size: 14px; /* Adjust the font size as needed */
-    text-decoration: none; /* Remove underlines from links */
+    color: #ffffff; 
+    font-size: 14px; 
+    text-decoration: none; 
 }
 
 #contact-sidebar a:hover {
-    text-decoration: underline; /* Add underline on hover for better visibility */
+    text-decoration: underline; 
 }
 
 #content {
@@ -58,7 +58,7 @@ body {
     padding: 20px;
     transition: margin-left 0.5s;
     overflow-y: auto;
-    max-height: calc(100vh - 40px); /* Ogranicz wysokość */
+    max-height: calc(100vh - 40px); 
 }
 
 /* Styl responsywny */
@@ -69,7 +69,7 @@ body {
 
     #contact-sidebar {
         width: 100%;
-        max-width: 400px; /* Dostosuj szerokość kontenera */
+        max-width: 400px; 
     }
 
     #content {
