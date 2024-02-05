@@ -27,7 +27,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('Back.jpg');
+    background-image: url('back.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@ body {
     text-decoration: underline; 
 }
 
-#content {
+#summary {
     margin-left: 20px;
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +86,7 @@ body {
     overflow-y: auto;
     max-height: calc(100vh - 40px); 
     font-size: 1.4em;
-    color: #ffffff;
+    color: black;
 }
 
 /* Styl responsywny */
