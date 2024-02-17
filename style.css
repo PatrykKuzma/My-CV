@@ -33,6 +33,10 @@ body {
     background-repeat: no-repeat;
 }
 
+body a {
+    color: black;
+}
+
 .container {
     display: flex;
 }
